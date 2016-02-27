@@ -1,0 +1,17 @@
+{
+  "name": "image-compressor",
+  "version": "0.0.1",
+  "description": "Gulp image compressor using imagemin.",
+  "author": {
+    "name": "Xavid Ramirez",
+    "email": "xavid.ramirez01@utrgv.edu"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^2.4.0",
+    "imagemin-pngquant": "^4.2.2"
+  },
+  "dependencies": {
+    "gulp-load-plugins": "^1.2.0"
+  }
+}
